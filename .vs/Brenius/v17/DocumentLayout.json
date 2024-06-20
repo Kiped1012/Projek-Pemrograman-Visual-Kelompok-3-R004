@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|d:\\file kevin\\pemrograman visual\\brenius\\brenius\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|solutionrelative:brenius\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|d:\\file kevin\\pemrograman visual\\brenius\\brenius\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|solutionrelative:brenius\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|d:\\file kevin\\pemrograman visual\\brenius\\brenius\\formnilai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|solutionrelative:brenius\\formnilai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|d:\\file kevin\\pemrograman visual\\brenius\\brenius\\formhomeguru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|solutionrelative:brenius\\formhomeguru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|d:\\file kevin\\pemrograman visual\\brenius\\brenius\\formhomeguru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|solutionrelative:brenius\\formhomeguru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|D:\\File Kevin\\Pemrograman Visual\\Brenius\\brenius\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58EB9AE-FB10-4B41-A55F-E3DA299016F0}|Brenius\\Brenius.csproj|solutionrelative:brenius\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormNilai.cs",
+              "RelativeDocumentMoniker": "Brenius\\FormNilai.cs",
+              "ToolTip": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormNilai.cs",
+              "RelativeToolTip": "Brenius\\FormNilai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:19:01.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNilai.Designer.cs",
+              "DocumentMoniker": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormNilai.Designer.cs",
+              "RelativeDocumentMoniker": "Brenius\\FormNilai.Designer.cs",
+              "ToolTip": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormNilai.Designer.cs",
+              "RelativeToolTip": "Brenius\\FormNilai.Designer.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswDkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:53:04.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormNilai.cs",
+              "RelativeDocumentMoniker": "Brenius\\FormNilai.cs",
+              "ToolTip": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormNilai.cs [Design]",
+              "RelativeToolTip": "Brenius\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:59:45.903Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHomeGuru.cs",
+              "DocumentMoniker": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormHomeGuru.cs",
+              "RelativeDocumentMoniker": "Brenius\\FormHomeGuru.cs",
+              "ToolTip": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormHomeGuru.cs",
+              "RelativeToolTip": "Brenius\\FormHomeGuru.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvyoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:22:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHomeGuru.cs [Design]",
+              "DocumentMoniker": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormHomeGuru.cs",
+              "RelativeDocumentMoniker": "Brenius\\FormHomeGuru.cs",
+              "ToolTip": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\FormHomeGuru.cs [Design]",
+              "RelativeToolTip": "Brenius\\FormHomeGuru.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:21:54.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\Program.cs",
+              "RelativeDocumentMoniker": "Brenius\\Program.cs",
+              "ToolTip": "D:\\File Kevin\\Pemrograman Visual\\Brenius\\Brenius\\Program.cs",
+              "RelativeToolTip": "Brenius\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:06:02.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
